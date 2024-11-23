@@ -115,7 +115,7 @@ const Home = () => {
         {/* CONTENT 3 */}
         <div className="content-3 relative">
           <img
-            className="rounded-2xl w-full h-[340px]"
+            className="rounded-2xl w-full h-[300px]"
             src={Home3}
             alt="home3"
           />
